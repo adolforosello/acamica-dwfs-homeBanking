@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"uss",
+				"usser"
+			],
+			[
+				"usser",
+				"usserName"
+			],
+			[
+				"use",
+				"ussers"
+			],
+			[
+				"lo",
+				"logUsser"
+			],
+			[
+				"log",
+				"logUsser"
+			],
+			[
+				"actul",
+				"actualizarSaldoEnPantalla"
+			],
+			[
+				"actua",
+				"actualizarSaldoEnPantalla"
+			],
+			[
+				"usse",
+				"usserSession"
+			],
+			[
+				"ok",
+				"okUsser"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"limi",
+				"limitValidate"
+			],
+			[
+				"pagar",
+				"pagarServicio"
+			],
+			[
+				"extra",
+				"extractLimit"
+			],
+			[
+				"in",
+				"inputValidate"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"User",
+				"UserName"
+			],
+			[
+				"l",
+				"extractLimit"
+			],
+			[
+				"us",
+				"userName"
+			],
+			[
+				"extr",
+				"extract"
+			],
+			[
+				"saldo",
+				"saldoCuenta"
+			],
+			[
+				"va",
+				"validarNum"
+			],
+			[
+				"nombre",
+				"nombreUsuario"
+			],
+			[
+				"actual",
+				"actualizarSaldoEnPantalla"
+			],
+			[
+				"deposi",
+				"deposito"
+			],
+			[
+				"limite",
+				"limiteExtraccion"
+			],
+			[
+				"nom",
+				"nombreUsuario"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/homebankingLogIn.js",
+			"settings":
+			{
+				"buffer_size": 2064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Fito/Desktop/acamica/Adolfo Rosello-homebancking",
+		"/C/Users/Fito/Desktop/acamica/Adolfo Rosello-homebancking/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Fito/Desktop/nueva/index.html",
+		"/C/Users/Fito/Desktop/nueva/style.css",
+		"/C/Users/Fito/Desktop/acamica/homebancking/css/styleLog.css",
+		"/C/Users/Fito/Desktop/acamica/homebancking/newAccount.html",
+		"/C/Users/Fito/Desktop/acamica/homebancking/login.html",
+		"/C/Users/Fito/Desktop/acamica/homebancking/js/homebankingLogIn.js",
+		"/C/Users/Fito/Desktop/acamica/homebancking/js/homebanking.js",
+		"/C/Users/Fito/Desktop/acamica/homebancking/index.html",
+		"/C/Users/Fito/Desktop/acamica/homebancking/js/asd.js",
+		"/C/Users/Fito/Desktop/acamica/homebancking/windows.html",
+		"/C/Users/Fito/Desktop/acamica/homebancking/css/style.css",
+		"/C/Users/Fito/Desktop/acamica/homebancking/homebankingLogIn.js",
+		"/C/Users/Fito/Desktop/acamica/homebancking/js/newAccount.html",
+		"/C/Users/Fito/Desktop/acamica/homebancking/js/login.html",
+		"/E/acamica/main.js",
+		"/C/Users/Fito/Desktop/index.html",
+		"/C/Users/Fito/Desktop/contar-letras.js",
+		"/E/acamica/js-1.html",
+		"/E/acamica/cv/style.css",
+		"/E/acamica/cv/index.html",
+		"/C/Users/Fito/Downloads/actividad-01 (3)/actividad-01/estilo.css",
+		"/C/Users/Fito/Downloads/actividad-01 (3)/actividad-01/index.html",
+		"/C/Users/Fito/Desktop/acamica/proyecto1 curriculum/style.css",
+		"/C/Users/Fito/Downloads/actividad-01 (1)/actividad-01/estilo.css",
+		"/C/Users/Fito/Downloads/actividad-01 (1)/actividad-01/index.html",
+		"/C/Users/Fito/Downloads/actividad-01/actividad-01.html",
+		"/C/Users/Fito/Downloads/actividad-02/actividad-02.html",
+		"/C/Users/Fito/Downloads/actividad-01.zip"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%;\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/homebankingLogIn.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 747.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "homebanking.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

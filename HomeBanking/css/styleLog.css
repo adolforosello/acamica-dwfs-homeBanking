@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+
+    font-family: "Source Sans Pro", sans-serif;
+
+    background-color: #2a333d;
+}
+
+.logo {
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+
+    text-align: left;
+    vertical-align: text-bottom;
+}
+.white-container {
+    display: flex;
+    width: 65%;
+    padding: 30px;
+    margin: 0 auto;
+    box-sizing: border-box;
+
+    border: 1px solid #979797;
+    border-radius: 8px;
+    background-color: #fff;
+
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    width: 65%;
+    margin: 7% auto 0;
+    margin-bottom: 15px;
+
+    justify-content: space-between;
+}
+.form{
+    width: 40%;
+}
